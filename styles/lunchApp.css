@@ -9,3 +9,7 @@ input[type= "text"].error-color{
 .success-color-text{
 	color: green;
 }
+
+.error-color-text{
+	color: red;
+}
