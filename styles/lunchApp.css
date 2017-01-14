@@ -1,0 +1,11 @@
+input[type= "text"].success-color{
+	border-color: green;
+}
+
+input[type= "text"].error-color{
+	border-color: red;
+}
+
+.success-color-text{
+	color: green;
+}
